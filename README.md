@@ -1,4 +1,4 @@
-#  MEF SDN/NFV VILT 2020-MAR-23 to 25
+#  MEF SDN/NFV VILT 2020-APR-14 to 16
 
 ## [MEF SDN/NFV Introduction - Nicholas Riegel](https://docs.google.com/presentation/d/1mwf5bOAcv3zAhE1sPzjZsh_SHO0lmRui_h29-LFybyg/edit?usp=sharing)
 
