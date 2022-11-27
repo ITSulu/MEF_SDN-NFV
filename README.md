@@ -1,4 +1,4 @@
-#  MEF SNCP Course 2022-JUN-24 VILT CDT 
+#  MEF SNCP Course 2022-NOV-28 to 30 Austin, TX 
 
 ## [MEF SDN/NFV Introduction - Nicholas Riegel](https://docs.google.com/presentation/d/1mwf5bOAcv3zAhE1sPzjZsh_SHO0lmRui_h29-LFybyg/edit?usp=sharing)
 
